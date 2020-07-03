@@ -17,3 +17,6 @@ const result = getDogAge(pupper)
 
 // expect 14
 console.log({ result })
+
+
+console.log("Hello world!")
